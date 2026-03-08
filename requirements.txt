@@ -1,0 +1,13 @@
+beautifulsoup4>=4.12.3
+curl-cffi>=0.7.1
+extruct>=0.17.0
+lxml>=5.2.2
+playwright>=1.52.0
+python-dotenv>=1.0.1
+readability-lxml>=0.8.1
+requests>=2.32.3
+selectolax>=0.3.34
+tldextract>=5.1.2
+trafilatura>=1.9.0
+htmldate>=1.9.2
+orjson>=3.10.0
